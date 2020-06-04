@@ -4,4 +4,4 @@ docker run \
   --publish 1414:1414 \
   --publish 9443:9443 \
   --detach \
-  ajpahl1008/ibm-qmgr-9
+  ajpahl1008/ibm-qmgr-9-with-beats
